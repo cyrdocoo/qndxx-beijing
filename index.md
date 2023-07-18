@@ -8,19 +8,19 @@
 
 1. 在微信内打开本网页 or 复制这些文字到微信(比如文件传输助手)
 2. 打开登陆页面进行登录, 登陆后返回此页面: https://m.bjyouth.net/qndxx/index.html
-3. 点击这个链接, 即刻学习完成: https://m.bjyouth.net/dxx/check?id=118&org_id=172442
+3. 点击这个链接, 即刻学习完成: https://m.bjyouth.net/dxx/check?id=120&org_id=172442
 
 (以下为可选项)
 
 + 点击这个链接, 可以查看学习记录: https://m.bjyouth.net/qndxx/index.html#/pages/home/studyrecord
 + 点击这个链接, 可以查看学习成功的截图: https://ouyen.github.io/qndxx-beijing/end.html
-+ 点击这个链接, 可以查看学习成功所显示的图片: https://h5.cyol.com/special/daxuexi/fh6ax2w0ky/images/end.jpg
++ 点击这个链接, 可以查看学习成功所显示的图片: https://h5.cyol.com/special/daxuexi/fkz7v0e3hd/images/end.jpg
 
 ## 本期课程信息
 
-主题为: 青年大学习：​中国共产主义青年团第十九次全国代表大会专辑
+主题为: 青年大学习：听党话，跟党走，奋斗在一线
 
-学习的地址为: https://h5.cyol.com/special/daxuexi/fh6ax2w0ky/m.html
+学习的地址为: https://h5.cyol.com/special/daxuexi/fkz7v0e3hd/m.html
 
 ## 风险自负!!!
 
